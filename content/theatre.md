@@ -2,7 +2,6 @@
 title = "Theatre"
 description = "My Theatre CV"
 date = "2022-04-20"
-aliases = ["about-us", "about-me", "contact"]
 author = "Fish Lasers"
 +++
 My credits:
@@ -10,7 +9,7 @@ My credits:
 | ------------------------------------ | ----------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | --------- |
 | Sound Designer                       | Carrie: The Musical                                         | Ellie Cooper     | Oxford Playhouse                                                                                   | TT22      |
 | Sound Designer                       | Plus One                                                    | Nina Jurkovic    | Michael Pilch Studio                                                                               | HT22      |
-| Sound Designer                       | Sweeney Todd                                                | Imogen Albert    | Oxford Playhouse                                                                                   | HT22      |
+| Sound Designer                       | [Sweeney Todd](https://www.00productions.co.uk/sweeney-todd)                                                | Imogen Albert    | Oxford Playhouse                                                                                   | HT22      |
 | Executive Sound Designer             | Murder in Argos                                             |                  | O'Reilly Theatre                                                                                   | MT21      |
 | Sound Designer                       | Smart Casual                                                | Sam Woof McColl  | The North Wall Arts Centre, The Cockpit Theatre                                    | LV21 |
 | Sound Designer                       | Half Baked                                                  | Nina Jurkovic    | The North Wall Arts Centre                                                                         | TT21      |
