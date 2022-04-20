@@ -6,6 +6,3 @@ draft: false
 
 I made a funny little harmonograph generator. It lives [here](https://sprongle.fishlasers.co.uk).
 
-$$
-y = mx + c
-$$
