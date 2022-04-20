@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://thekeeno.github.io/fishtex/sitemap.xml
+Sitemap: https://www.fishlasers.co.uk/sitemap.xml
