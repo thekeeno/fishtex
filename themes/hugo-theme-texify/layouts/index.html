@@ -6,6 +6,7 @@
 <main id="main" class="index">
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "==" "post") }}
   {{ range $paginator.Pages }}
+  
   <div class="post">
     <h2>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
