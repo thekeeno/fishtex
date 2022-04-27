@@ -2,6 +2,19 @@
     text-align: center;
 }
 
+.hireimage{
+    border-radius: 1%;     
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+    background-color: white;
+}
+
+#main > h1 > .hiretitle {
+    text-align: left;
+}
+
 #main > .content {
     padding-top: 1rem;
 }
