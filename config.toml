@@ -58,8 +58,10 @@ tags = "tags"
 description = "an example site for hugo theme TeXify" # website description
 favicon = "favicon.ico" # path to website icon, relative to ./static
 footnote = """
-Follow me on <a class=link href=https://github.com/thekeeno>GitHub</a> or
+<a class=link href=https://github.com/thekeeno>GitHub</a> |
 <a class=link href=https://twitter.com/andrewcjorr>Twitter</a> |
+<a class=link href=mailto:me@fishlasers.co.uk>Email</a>
+</br>
 <a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank rel=noopener>CC BY-NC-SA 4.0</a>
 """ # notes in the website footer
 keywords = ["hugo", "latex", "theme", "sound", "fish", "lasers"] # website keywords
