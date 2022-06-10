@@ -10,4 +10,4 @@ Perfect as a stagebox or I/O expander with the [01v96i](../01v96i) and its [MY-A
 
 Also works well as an audio interface with Dante Virtual Soundcard.
 
-Can be supplied with Cat5e cables of various lengths.
+Can be supplied with Cat5e cables of various lengths or a loom.
