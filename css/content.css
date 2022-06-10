@@ -122,6 +122,7 @@
     display: block;
     overflow-x: auto;
     width: 100%;
+    
 }
 
 .content td, .content th {
@@ -134,6 +135,11 @@
     color: #FAFAFA;
     white-space: nowrap;
 }
+
+.content td {
+    background-color: #FAFAFA;    
+}
+
 
 .content ol, .content ul {
     margin-left: 1.5rem;
