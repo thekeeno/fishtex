@@ -84,8 +84,8 @@ time {
 }
 
 #wrapper {
-    background: rgb(255,153,208);
-background: linear-gradient(90deg, rgba(255,153,208,1) 0%, rgba(254,217,255,1) 50%, rgba(190,213,255,1) 100%);
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,153,208,1) 0%, rgba(254,255,255,1) 25%, rgba(254,255,255,1) 75%, rgba(190,213,255,1) 100%);
     display: flex;
     flex-direction: column;
     font-family: 'Latin Modern Roman', 'Times New Roman', serif;
