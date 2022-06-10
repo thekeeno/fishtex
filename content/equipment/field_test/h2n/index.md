@@ -1,7 +1,7 @@
 ---
 title: "Zoom H2n"
 date: 2021-04-20T14:58:20+01:00
-draft: true
+draft: false
 equipment-group: "Field Recorders"
 quantity: "1"
 ---

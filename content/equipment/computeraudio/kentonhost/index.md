@@ -1,7 +1,7 @@
 ---
 title: "Kenton MIDI USB Host MkII"
 date: 2022-04-27T10:41:16+01:00
-draft: true
+draft: false
 equipment-group: "MIDI Utility"
 quantity: "1"
 ---

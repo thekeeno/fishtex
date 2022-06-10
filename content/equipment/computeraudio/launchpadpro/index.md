@@ -1,7 +1,7 @@
 ---
 title: "Novation Launchpad Pro"
 date: 2022-04-26T15:31:55+01:00
-draft: true
+draft: false
 equipment-group: "MIDI Controllers"
 quantity: "1"
 

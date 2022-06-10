@@ -1,7 +1,7 @@
 ---
 title: "Behringer UB1202"
 date: 2022-04-20T14:58:20+01:00
-draft: true
+draft: false
 equipment-group: "Mixers"
 quantity: "1"
 ---

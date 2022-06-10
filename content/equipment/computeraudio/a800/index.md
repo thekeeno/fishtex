@@ -1,7 +1,7 @@
 ---
 title: "Roland A-800 PRO"
 date: 2022-04-27T10:41:16+01:00
-draft: true
+draft: false
 equipment-group: "MIDI Controllers"
 quantity: "1"
 ---
