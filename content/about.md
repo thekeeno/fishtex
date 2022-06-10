@@ -16,7 +16,7 @@ This website is a space for me to write about my personal projects, which range 
 
 I maintain a small collection of sound equipment, available to borrow. See my [kit list](/equipment).
 
-Contact me by [email](mailto:me@fishlasers.co.uk).
+Contact me by [email](mailto:mailbox@fishlasers.co.uk).
 
 
 
