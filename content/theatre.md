@@ -10,7 +10,7 @@ I am currently looking forward to sound designing SKIN at the Keble O'Reilly The
 My credits:
 | Role                                 | Show                                                        | Director         | Venue                                                                                              | Dates      |
 | ------------------------------------ | ----------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | --------- |
-| Sound Designer | tick, tick...BOOM!| | Michael Pilch Studio| TT22|
+| Sound Designer | tick, tick...BOOM!| Felix Westcott | Michael Pilch Studio| TT22|
 | Sound Designer                       | Carrie: The Musical                                         | Ellie Cooper     | Oxford Playhouse                                                                                   | TT22      |
 | Sound Designer                       | [Plus One](https://www.00productions.co.uk/plus-one)                                                    | Nina Jurkovic    | Michael Pilch Studio                                                                               | HT22      |
 | Sound Designer                       | [Sweeney Todd](https://www.00productions.co.uk/sweeney-todd)                                                | Imogen Albert    | Oxford Playhouse                                                                                   | HT22      |
