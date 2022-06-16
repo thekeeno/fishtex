@@ -1,9 +1,10 @@
 ---
-title: "XLR Cable"
+title: "Minijack cable, M/M"
 date: 2021-04-20T14:58:20+01:00
 draft: false
 equipment-group: "Audio Cables"
-quantity: "Enquire"
+quantity: "3"
 ---
 
-XLR Cable.
+Standard 'aux' style cable.
+
