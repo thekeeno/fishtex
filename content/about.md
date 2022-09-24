@@ -8,9 +8,9 @@ author = "Fish Lasers"
 
 ##
 
-Welcome to the personal site of FishLasers, a.k.a. A. C. J. Orr.
+Welcome to the personal site of FishLasers, a.k.a. Alva C. J. Orr.
 
-I am currently a DPhil student in Engineering Science at the [University of Oxford](https://www.physics.ox.ac.uk/our-people/orra). I also lecture in Physics at [New College](https://www.bnc.ox.ac.uk/about-brasenose/academic-staff/579-mr-andrew-orr) and [Brasenose College](https://www.bnc.ox.ac.uk/about-brasenose/academic-staff/579-mr-andrew-orr).
+I am currently a DPhil student in Engineering Science at the [University of Oxford](https://www.physics.ox.ac.uk/our-people/orra). I also lecture in Physics at New College and Brasenose College.
 
 This website is a space for me to write about my personal projects, which range from theatre to electronics to music.
 
