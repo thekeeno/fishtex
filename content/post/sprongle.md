@@ -1,6 +1,7 @@
 ---
 title: "Sprongle"
 date: 2022-04-20T15:01:26+01:00
+summary: "Get Sprongled."
 draft: false
 tags:
 - art
