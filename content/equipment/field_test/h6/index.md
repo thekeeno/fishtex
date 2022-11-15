@@ -6,4 +6,4 @@ equipment-group: "Field Recorders"
 quantity: "1"
 ---
 
-6-channel battery-powered recorder. Records to SD cards (not included). X/Y and M/S capsules. Supplied with case.
+6-channel battery-powered recorder. Records to SD cards (not included). X/Y and M/S capsules. Supplied with case and accessories including optional fluffy windshield and remote control.
