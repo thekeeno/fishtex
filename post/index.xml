@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on FishLasers</title><link>https://www.fishlasers.co.uk/post/</link><description>Recent content in Posts on FishLasers</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@fishlasers.co.uk (Fish Lasers)</managingEditor><webMaster>me@fishlasers.co.uk (Fish Lasers)</webMaster><lastBuildDate>Tue, 15 Nov 2022 15:01:26 +0100</lastBuildDate><atom:link href="https://www.fishlasers.co.uk/post/index.xml" rel="self" type="application/rss+xml"/><item><title>SKIN: Trailer</title><link>https://www.fishlasers.co.uk/post/skin-trailer/</link><pubDate>Tue, 15 Nov 2022 15:01:26 +0100</pubDate><author>me@fishlasers.co.uk (Fish Lasers)</author><guid>https://www.fishlasers.co.uk/post/skin-trailer/</guid><description>&lt;p>Sound design for a production of SKIN, a new play by Peter Todd, at the O&amp;rsquo;Reilly Theatre.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on FishLasers</title><link>https://www.fishlasers.co.uk/post/</link><description>Recent content in Posts on FishLasers</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@fishlasers.co.uk (Fish Lasers)</managingEditor><webMaster>me@fishlasers.co.uk (Fish Lasers)</webMaster><lastBuildDate>Tue, 15 Nov 2022 16:01:26 +0100</lastBuildDate><atom:link href="https://www.fishlasers.co.uk/post/index.xml" rel="self" type="application/rss+xml"/><item><title>OUTTS: Sound Workshops</title><link>https://www.fishlasers.co.uk/post/outts-workshops/</link><pubDate>Tue, 15 Nov 2022 16:01:26 +0100</pubDate><author>me@fishlasers.co.uk (Fish Lasers)</author><guid>https://www.fishlasers.co.uk/post/outts-workshops/</guid><description>&lt;p>In Michaelmas Term 2022, I delivered a series of workshops for OUTTS, the Oxford University Technical Theatre Society. Here are some condensed notes, based on those workshops.&lt;/p>
+&lt;h2 id="software-recommendations">Software Recommendations&lt;/h2>
+&lt;ul>
+&lt;li>Audacity: &lt;a href="https://www.audacityteam.org/">https://www.audacityteam.org/&lt;/a>&lt;/li>
+&lt;li>Reaper: &lt;a href="https://www.reaper.fm/">https://www.reaper.fm/&lt;/a>&lt;/li>
+&lt;li>PaulXStretch: &lt;a href="https://sonosaurus.com/paulxstretch/">https://sonosaurus.com/paulxstretch/&lt;/a>&lt;/li>
+&lt;li>QLab: &lt;a href="https://qlab.app/">https://qlab.app/&lt;/a> N.B. QLab has an educational license discount available.&lt;/li>
+&lt;/ul>
+&lt;h2 id="contact-microphones">Contact Microphones&lt;/h2>
+&lt;p>The discussion of contact mics I made in the session was only an overview - there is so much to say on the topic. Contact mics are cheap and fun DIY projects. The parts you need to make one can be bought very cheaply:
+&lt;a href="https://www.zachpoff.com/resources/building-contact-mics/">https://www.zachpoff.com/resources/building-contact-mics/&lt;/a>&lt;/p>
+&lt;p>Some further advice on their usage can be found here:
+&lt;a href="https://www.musicofsound.co.nz/blog/the-first-rule-of-contact-mic-club">https://www.musicofsound.co.nz/blog/the-first-rule-of-contact-mic-club&lt;/a>&lt;/p>
+&lt;p>One local maker of contact mics is Jez Riley French - he&amp;rsquo;s a respected UK based sound artist with lots of interesting and inspiring writing on field recording and more!
+&lt;a href="https://jezrileyfrench.co.uk/contact-microphones.php">https://jezrileyfrench.co.uk/contact-microphones.php&lt;/a>&lt;/p>
+&lt;h2 id="sourcing-sound-effects">Sourcing Sound Effects&lt;/h2>
+&lt;p>Some of my go-to websites for free sound effects are:&lt;/p>
+&lt;ul>
+&lt;li>Freesound &lt;a href="https://freesound.org/">https://freesound.org/&lt;/a> (variable quality, keep an eye out for ones with CC0 license)&lt;/li>
+&lt;li>Song Work &lt;a href="https://songwork.org/">https://songwork.org/&lt;/a>&lt;/li>
+&lt;li>National Parks Service &lt;a href="https://www.nps.gov/subjects/sound/gallery.htm">https://www.nps.gov/subjects/sound/gallery.htm&lt;/a>&lt;/li>
+&lt;li>BBC Sound Effects &lt;a href="https://sound-effects.bbcrewind.co.uk/">https://sound-effects.bbcrewind.co.uk/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>I generally advise against finding sound effects on YouTube. Always respect the license conditions associated with downloaded sounds.&lt;/p>
+&lt;h2 id="prs-and-music-licensing">PRS and Music Licensing&lt;/h2>
+&lt;p>It is your responsibility to make sure your sampling of music in performances is legal. Gareth Fry wrote a fantastic guide to this:
+&lt;a href="https://static1.squarespace.com/static/54ef9609e4b057c8e72c6455/t/5ba185b9f950b7126096a545/1537312185976/Using+Copyrighted+Music+in+Theatre+2014+pdf.pdf">https://static1.squarespace.com/static/54ef9609e4b057c8e72c6455/t/5ba185b9f950b7126096a545/1537312185976/Using+Copyrighted+Music+in+Theatre+2014+pdf.pdf&lt;/a>&lt;/p>
+&lt;h2 id="further-reading">Further Reading&lt;/h2>
+&lt;ul>
+&lt;li>Gareth Fry - Sound Design for the Stage (I have a copy if people want to borrow it!)
+&lt;a href="http://www.garethfry.co.uk/sound-design-for-the-stage">http://www.garethfry.co.uk/sound-design-for-the-stage&lt;/a>&lt;/li>
+&lt;li>Mic Pool - Step By Step Guide to Sound Design
+&lt;a href="https://micpool.com/the-aural-imagination/step-by-step-guide-to-sound-design/">https://micpool.com/the-aural-imagination/step-by-step-guide-to-sound-design/&lt;/a>&lt;/li>
+&lt;li>The QLab Cookbook &lt;a href="https://qlab.app/cookbook/">https://qlab.app/cookbook/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>SKIN: Trailer</title><link>https://www.fishlasers.co.uk/post/skin-trailer/</link><pubDate>Tue, 15 Nov 2022 15:01:26 +0100</pubDate><author>me@fishlasers.co.uk (Fish Lasers)</author><guid>https://www.fishlasers.co.uk/post/skin-trailer/</guid><description>&lt;p>Sound design for a production of SKIN, a new play by Peter Todd, at the O&amp;rsquo;Reilly Theatre.&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/RaEu-x7RfPw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
