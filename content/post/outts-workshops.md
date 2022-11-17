@@ -29,25 +29,27 @@ https://jezrileyfrench.co.uk/contact-microphones.php
 
 ## Sourcing Sound Effects
 
-Some of my go-to websites for free sound effects are:
-- Freesound https://freesound.org/ (variable quality, keep an eye out for ones with CC0 license)
-- Song Work https://songwork.org/
-- National Parks Service https://www.nps.gov/subjects/sound/gallery.htm
-- BBC Sound Effects https://sound-effects.bbcrewind.co.uk/
+Some of my go-to websites for free, public-domain or otherwise permissively licensed sound effects are:
+- [Freesound](https://freesound.org/) - these can be of variable quality, but there is some really good stuff on there too.
+- [Song Work](https://songwork.org/) - an archive of the sounds of workplaces, factories, and more. Plenty of CC0 content.
+- [National Parks Service](https://www.nps.gov/subjects/sound/gallery.htm)
+- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - not public domain, but free for non-commercial use.
+- [aporee ::: maps](https://aporee.org/maps/) - mix of CC-licensed sounds, all geotagged.
+- [xeno-canto](https://xeno-canto.org/explore?query=%20lic:%22pd%22) -  a mix of CC-licensed wildlife recordings, mostly birds. This link will take you to a search that finds public domain licensed sounds.
+- [Sound Jay](https://www.soundjay.com)
 
-I generally advise against finding sound effects on YouTube. Always respect the license conditions associated with downloaded sounds.
+I generally advise against finding sound effects on YouTube. When browsing free sound websites, keep an eye out in particular for public domain licenses such as CC0, CC-PD and similar - these licenses are very permissive compared to, for example, CC-NY-SA or similar. Even if they are free to access, you must always respect the license conditions associated with downloaded sounds.
 
 ## PRS and Music Licensing
 
-It is your responsibility to make sure your sampling of music in performances is legal. Gareth Fry wrote a fantastic guide to this:
-https://static1.squarespace.com/static/54ef9609e4b057c8e72c6455/t/5ba185b9f950b7126096a545/1537312185976/Using+Copyrighted+Music+in+Theatre+2014+pdf.pdf 
+It is your responsibility to make sure your sampling of music in performances is legal. [Gareth Fry wrote a fantastic guide to managing this.](https://static1.squarespace.com/static/54ef9609e4b057c8e72c6455/t/5ba185b9f950b7126096a545/1537312185976/Using+Copyrighted+Music+in+Theatre+2014+pdf.pdf )
+
 
 ## Further Reading
 
-- Gareth Fry - Sound Design for the Stage (I have a copy if people want to borrow it!)
-http://www.garethfry.co.uk/sound-design-for-the-stage
-- Mic Pool - Step By Step Guide to Sound Design 
-https://micpool.com/the-aural-imagination/step-by-step-guide-to-sound-design/ 
-- The QLab Cookbook https://qlab.app/cookbook/
+- [Gareth Fry - Sound Design for the Stage](http://www.garethfry.co.uk/sound-design-for-the-stage) (I have a copy if people want to borrow it!)
+
+- [Mic Pool - Step By Step Guide to Sound Design](https://micpool.com/the-aural-imagination/step-by-step-guide-to-sound-design/)
+- [The QLab Cookbook]( https://qlab.app/cookbook/)
 
 
