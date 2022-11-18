@@ -33,6 +33,7 @@ Some of my go-to websites for free, public-domain or otherwise permissively lice
 - [Freesound](https://freesound.org/) - these can be of variable quality, but there is some really good stuff on there too.
 - [Song Work](https://songwork.org/) - an archive of the sounds of workplaces, factories, and more. Plenty of CC0 content.
 - [National Parks Service](https://www.nps.gov/subjects/sound/gallery.htm)
+- [US Fish and Wildlife Service](https://digitalmedia.fws.gov/digital/collection/audio/search/searchterm/audio%20clip/field/subjec/mode/exact/conn/and) - small collection of public domain recordings of various fish and wildlife.
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - not public domain, but free for non-commercial use.
 - [aporee ::: maps](https://aporee.org/maps/) - mix of CC-licensed sounds, all geotagged.
 - [xeno-canto](https://xeno-canto.org/explore?query=%20lic:%22pd%22) -  a mix of CC-licensed wildlife recordings, mostly birds. This link will take you to a search that finds public domain licensed sounds.
