@@ -49,7 +49,6 @@ It is your responsibility to make sure your sampling of music in performances is
 ## Further Reading
 
 - [Gareth Fry - Sound Design for the Stage](http://www.garethfry.co.uk/sound-design-for-the-stage) (I have a copy if people want to borrow it!)
-
 - [Mic Pool - Step By Step Guide to Sound Design](https://micpool.com/the-aural-imagination/step-by-step-guide-to-sound-design/)
 - [The QLab Cookbook]( https://qlab.app/cookbook/)
 
