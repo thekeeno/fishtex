@@ -5,11 +5,12 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
-I am currently looking forward to sound designing The Tempest at the Oxford Playhouse.
+I am currently looking forward to sound designing The Tempest and An American in Paris at the Oxford Playhouse.
 
 My credits:
 | Role                                 | Show                                                        | Director         | Venue                                                                                              | Dates      |
 | ------------------------------------ | ----------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | --------- |
+|Sound Designer | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
 |Sound Designer | [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | O'Reilly Theatre| Oct 2022|
 | Sound Designer | UNMADE | Georgina Dettmer | New Theatre, Oxford|
 | Sound Designer | tick, tick...BOOM!| Felix Westcott | Michael Pilch Studio| TT22|
