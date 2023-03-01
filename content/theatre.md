@@ -1,16 +1,14 @@
 +++
-title = "Theatre"
-description = "My Theatre CV"
+title = "Theatre Credits"
+description = "Theatre Credits"
 date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
 
-
-My credits:
-| Role                                 | Show                                                        | Director         | Venue                                                                                              | Dates      |
-| ------------------------------------ | ----------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | --------- |
-|Assistant Stage Manager | BARE | Mina Moniri| O'Reily Theatre | Mar 2023|
+| Role | Show   | Director  |Venue    | Dates      |
+| ------------------ | ------------------ | ---------------- | ---------------- | --------- |
+|Assistant Stage Manager | BARE | Mina Moniri| O'Reilly Theatre | Mar 2023|
 |Sound Designer | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
 |Sound Designer| An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
 |Sound Designer | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|

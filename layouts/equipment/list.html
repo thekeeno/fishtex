@@ -4,24 +4,35 @@
 
 {{ define "main" }}
 
-<main id="main" class="archive">
-  <h1 style="text-align:left">{{ .Title }}</h1>
-  <article class="content">{{ .Content }}</article>
-  {{ $pages := where .Data.Pages "Type" "equipment" }}
-  {{ range $pages.GroupByParam "equipment-group" }}
-  <div class="post-group">
-    <h2>{{ (printf "%s" .Key) }}</h2>
-    <ul>
-      {{ range .Pages }}
-      <li style="line-height:30%;">
-        <a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a>        
-      </li>
-      {{ end }}
-    </ul>
+
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+        <div>
+          <h1 style="text-align:left">{{ .Title }}</h1>
+          <article class="content">{{ .Content }}</article>
+          {{ $pages := where .Data.Pages "Type" "equipment" }}
+          {{ range $pages.GroupByParam "equipment-group" }}
+          <div class="post-group">
+            <h2>{{ (printf "%s" .Key) }}</h2>
+            <ul>
+              {{ range .Pages }}
+              <li>
+                <a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a>        
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
   </div>
-  {{ end }}
-  <div class="post-group">
-    <h2>...</h2>
-  </div>
-</main>
+</div>
+
+
+
+
 {{ end }}

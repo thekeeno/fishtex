@@ -1,5 +1,5 @@
-baseurl = "https://fishlasers.co.uk/"
-title = "FishLasers"
+baseurl = "https://example.org/"
+title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2023 FishLasers Limited"
+  copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "Welcome to the personal site of FishLasers, a.k.a. Alva C. J. Orr.",
-    "I am an Engineering DPhil student and sometime sound designer born in London and based in Oxford."
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "alva@fishlasers.co.uk"
+  email = "you@yoursite.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -54,15 +54,15 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
-  [[params.navlinks]]
-  name = "Hire my Equipment"
-  url = "equipment/"
-
-  [[params.navlinks]]
-  name = "See my Credits"
-  url = "theatre/"
-
   [params.social]
-  email         = "alva@fishlasers.co.uk"
-
-
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  gitlab        = "full profile url in gitlab"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
