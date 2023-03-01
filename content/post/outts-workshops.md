@@ -4,7 +4,7 @@ date: 2022-11-15T16:01:26+01:00
 summary: "Handouts for workshops delivered for OUTTS, the Oxford University Technical Theatre Society."
 draft: false
 tags:
-- sound design
+- Sound Design
 ---
 
 In Michaelmas Term 2022, I delivered a series of workshops for OUTTS, the Oxford University Technical Theatre Society. Here are some condensed notes, based on those workshops.

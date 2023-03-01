@@ -5,7 +5,7 @@ summary: "Sound design for a production of SKIN, a new play by Peter Todd, at th
 draft: false
 tags:
 - SKIN
-- sound design
+- Sound Design
 ---
 
 Sound design for a production of SKIN, a new play by Peter Todd, at the O'Reilly Theatre.
