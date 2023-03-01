@@ -1,12 +1,12 @@
 ---
 title: "The Tempest: Trailer"
-date: 2022-02-20T15:01:26+01:00
+date: 2023-02-20T15:01:26+01:00
 summary: "Sound design for a production of The Tempest, at the Oxford Playhouse"
 draft: false
 tags:
 - The Tempest
 - Contact Mics
-- sound design
+- Sound Design
 ---
 
 This was a ridiculously exciting project to work on.

@@ -5,6 +5,7 @@ draft: true
 tags:
 - electronics
 - theatre
+- carrie
 ---
 
 
@@ -30,7 +31,7 @@ This system is not too dissimilar to the gear ratio system inside a tonewheel Ha
 
 ## Known Issues
 
-I picked up this X5 relatively cheaply on *Reverb* and my dad generously brought it down from Reading to Oxford for me.
+I picked up this X5 relatively cheaply on Reverb and my dad generously brought it down from Reading to Oxford for me.
 Pretty much as soon as I started playing the organ at home, I notices none of the C# keys would sound. Actually, this was not quite right - if the mutation tonebars (all the black ones as well as the brown 5 1/3' tonebar) were pulled out, the C# keys would sound, but only on those mutations, leading to an odd, hollow sound. 
 
 It's worth noting at this point that the mutation tonebars play harmonics that are 'borrowed' from other notes. For example, if the C#4 key is depressed with the 3rd harmonic (2 2/3') tonebar drawn, the resultant tone is an octave and a fifth up from C#4, i.e. G#5. It's no surprise then that the mutation tonebars still sound even if all the C#s are broken.
