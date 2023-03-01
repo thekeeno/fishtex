@@ -5,11 +5,14 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
-I am currently looking forward to sound designing The Tempest and An American in Paris at the Oxford Playhouse.
+
 
 My credits:
 | Role                                 | Show                                                        | Director         | Venue                                                                                              | Dates      |
 | ------------------------------------ | ----------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | --------- |
+|Assistant Stage Manager | BARE | Mina Moniri| O'Reily Theatre | Mar 2023|
+|Sound Designer | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
+|Sound Designer| An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
 |Sound Designer | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
 |Sound Designer | [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | O'Reilly Theatre| Oct 2022|
 | Sound Designer | UNMADE | Georgina Dettmer | New Theatre, Oxford|
