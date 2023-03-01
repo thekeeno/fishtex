@@ -6,4 +6,4 @@ equipment-group: "Audio Cables"
 quantity: "Enquire"
 ---
 
-XLR Cable.
+XLR Cable. Various styles and lengths.
