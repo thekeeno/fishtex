@@ -1,8 +1,8 @@
 ---
-title: "The Tempest: Trailer"
+title: "The Tempest (Oxford Playhouse): Trailer"
 date: 2023-02-20T15:01:26+01:00
 image: "img/portfolio/tempest-bella.jpg"
-summary: " "
+summary: "Be not afeard. The isle is full of noises..."
 draft: false
 tags:
 - The Tempest
@@ -10,7 +10,7 @@ tags:
 - Sound Design
 ---
 
-This was a ridiculously exciting project to work on.
+Be not afeard. The isle is full of noises...
 
 {{<youtube id="UFdqfDiDvgg">}}
 
