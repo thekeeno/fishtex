@@ -2,6 +2,7 @@
 title: "The Oxford Gargoyles: Billie Bossa Nova"
 date: 2022-09-27T16:01:26+01:00
 summary: "This summer, I had the privilege of recording for the Oxford Gargoyles - that recording is now up on Spotify!"
+image: "img/portfolio/gargs-billie-cover.png"
 draft: false
 tags:
 - Recording
