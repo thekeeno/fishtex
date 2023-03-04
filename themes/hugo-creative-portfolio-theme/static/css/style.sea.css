@@ -10,6 +10,18 @@ Startup Template By Bootstrapious.com
 GENERAL
 =====================
 */
+
+th {
+  background-color: #cdcdcd;
+}
+
+table, th, td {
+  padding: 5px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
 html,
 body {
   overflow-x: hidden;
