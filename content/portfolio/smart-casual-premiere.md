@@ -38,8 +38,7 @@ Production Team
 - Associate Producer: Lowri Spear
 - Assistant Director: Imogen Albert
 - Assistant Musical Director: Caitlin Frank
-
-Production Manager/Video Editor: Harvey Dovell
+- Production Manager/Video Editor: Harvey Dovell
 - Stage Manager: Nicola Wright
 - Deputy Stage Manager: Violet Mermelstein
 - Set Designer: Joe Emmens
@@ -47,7 +46,6 @@ Production Manager/Video Editor: Harvey Dovell
 - Sound Designer: Alva Orr
 - Lighting Designer: Sam Morley
 - Director of Photography: Dougie Chalmers
-
 - Marketing Manager: Natasha Mallett
 - Graphic Designer: Phil Olney
 - Graphic Designer: Avery Mitchell
