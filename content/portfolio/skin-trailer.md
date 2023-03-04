@@ -9,7 +9,7 @@ tags:
 - Sound Design
 ---
 
-Sound design for a production of SKIN, a new play by Peter Todd, at the O'Reilly Theatre.
+Sound design for a production of SKIN, a new play by Peter Todd, at the O'Reilly Theatre. Headphones strongly recommended...
 
 {{<youtube id="RaEu-x7RfPw">}}
 
