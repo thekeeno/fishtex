@@ -15,7 +15,7 @@ googleAnalytics = ""
   copyright = "&copy;2023 FishLasers Limited"
   sidebarAbout = [
     "Welcome to the personal site of FishLasers, a.k.a. Alva C. J. Orr.",
-    "I am an Engineering DPhil student and sometime sound designer born in London and based in Oxford."
+    "I am an Engineering DPhil student and sound designer born in London and based in Oxford."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
