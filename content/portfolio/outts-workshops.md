@@ -1,5 +1,5 @@
 ---
-title: "OUTTS: Sound Workshops"
+title: "OUTTS: Sound Workshops: Part 1"
 date: 2022-11-15T16:01:26+01:00
 summary: "Handouts for workshops delivered for OUTTS, the Oxford University Technical Theatre Society."
 draft: false
