@@ -49,18 +49,25 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  
+  [[params.navlinks]]
+  name = "Reviews"
+  url = "reviews/"
+
 
   [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "See my Credits"
+  url = "theatre/"
 
   [[params.navlinks]]
   name = "Hire my Equipment"
   url = "equipment/"
 
+
+
   [[params.navlinks]]
-  name = "See my Credits"
-  url = "theatre/"
+  name = "Get in touch"
+  url = "contact/"
 
   [params.social]
   email         = "alva@fishlasers.co.uk"
