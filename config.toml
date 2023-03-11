@@ -1,11 +1,14 @@
 baseurl = "https://fishlasers.co.uk/"
 title = "FishLasers"
-theme = "hugo-creative-portfolio-theme"
+theme =  ["hugo-dynamic-tabs", "hugo-creative-portfolio-theme"]
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -15,7 +18,7 @@ googleAnalytics = ""
   copyright = "&copy;2023 FishLasers Limited"
   sidebarAbout = [
     "Welcome to the personal site of FishLasers, a.k.a. Alva C. J. Orr.",
-    "I am an Engineering DPhil student and sometime sound designer born in London and based in Oxford."
+    "I am an Engineering DPhil student and sound designer born in London and based in Oxford."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
