@@ -1,7 +1,7 @@
 ---
 title: "Smart Casual - A New Musical"
 date: 2023-03-03T16:01:26+01:00
-summary: " "
+summary: "Premiere of a new musical written and directed by Sam Woof in collaboration with TORCH - The Oxford Research Centre in the Humanities"
 image: "img/portfolio/smart-casual-cover.jpg"
 draft: false
 tags:
