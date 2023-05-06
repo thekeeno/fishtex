@@ -1,6 +1,6 @@
 +++
-title = "Theatre Credits"
-description = "Theatre Credits"
+title = "Theatrical Credits"
+description = "Theatrical Credits"
 date = "2022-04-20"
 author = "Fish Lasers"
 +++
