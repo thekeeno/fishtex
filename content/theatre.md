@@ -5,33 +5,48 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
+I am currently looking forward to sound designing The Metamorphosis as the Pilch Studio and lighting designing The 25th Annual Putnam County Spelling Bee at Queen's College Gardens.
+
+### As Sound Designer
+
+| Show   | Director  |Venue    | Dates      |
+| ------------------ | ---------------- | ---------------- | --------- |
+| The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
+| An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
+| Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
+| [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | O'Reilly Theatre| Oct 2022|
+| UNMADE | Georgina Dettmer | New Theatre, Oxford|
+| tick, tick...BOOM!| Felix Westcott | Michael Pilch Studio| TT22|
+                      | Carrie: The Musical                                         | Ellie Cooper     | Oxford Playhouse                                                                                   | TT22      |
+| [Plus One](https://www.00productions.co.uk/plus-one)                                                    | Nina Jurkovic    | Michael Pilch Studio                                                                               | HT22      |
+                      | [Sweeney Todd](https://www.00productions.co.uk/sweeney-todd)                                                | Imogen Albert    | Oxford Playhouse                                                                                   | HT22      |
+                      | [Smart Casual](https://www.thenorthwall.com/whats-on/smart-casual/)                                                | Sam Woof McColl  | The North Wall Arts Centre, The Cockpit Theatre                                    | LV21 |
+                      | Half Baked                                                  | Nina Jurkovic    | The North Wall Arts Centre                                                                         | TT21      |
+                      | Doctor Faustus                                              | Amelia Rogers    | O'Reilly Theatre                                                                                   | HT20      |
+| Merrily We Roll Along                                       | Sam Woof McColl  | Oxford Playhouse                                                                                   | HT20      |
+| Life of Galileo                                             | Jamie Murphy     | O'Reilly Theatre         | MT19      |                        
+| ENRON                                                       |Emma Howlett                 | Oxford Playhouse                                                                                   | HT19      |
+| The Threepenny Opera                                        | Georgie Botham   | Oxford Playhouse                                                                                   | MT18      |
+| Doom's Day                                                  | Laura Day        | Buxton Rotunda, Cambridge Junction, Edinburgh Fringe/C South, Katzpace Theatre | LV18 |
+| A Very Old Man With Enormous Wings                           |Laura Day                  | Burton Taylor Studio                                                                               | MT17      |
+
+### As Lighting Designer
+
+
+| Show   | Director  |Venue    | Dates      |
+| ------------------ | ------------------ | ---------------- | ---------------- |
+| Macbeth | Andrew Raynes | Michael Pilch Studio| May 2023|
+### Other Roles
 
 | Role | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- | --------- |
 |Assistant Stage Manager | BARE | Mina Moniri| O'Reilly Theatre | Mar 2023|
-|Sound Designer | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
-|Sound Designer| An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
-|Sound Designer | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
-|Sound Designer | [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | O'Reilly Theatre| Oct 2022|
-| Sound Designer | UNMADE | Georgina Dettmer | New Theatre, Oxford|
-| Sound Designer | tick, tick...BOOM!| Felix Westcott | Michael Pilch Studio| TT22|
-| Sound Designer                       | Carrie: The Musical                                         | Ellie Cooper     | Oxford Playhouse                                                                                   | TT22      |
-| Sound Designer | [Plus One](https://www.00productions.co.uk/plus-one)                                                    | Nina Jurkovic    | Michael Pilch Studio                                                                               | HT22      |
-| Sound Designer                       | [Sweeney Todd](https://www.00productions.co.uk/sweeney-todd)                                                | Imogen Albert    | Oxford Playhouse                                                                                   | HT22      |
 | Executive Sound Designer             | Murder in Argos                                             | Helena Aeberli | O'Reilly Theatre                                                                                   | MT21      |
-| Sound Designer                       | [Smart Casual](https://www.thenorthwall.com/whats-on/smart-casual/)                                                | Sam Woof McColl  | The North Wall Arts Centre, The Cockpit Theatre                                    | LV21 |
-| Sound Designer                       | Half Baked                                                  | Nina Jurkovic    | The North Wall Arts Centre                                                                         | TT21      |
-| Sound Designer                       | Doctor Faustus                                              | Amelia Rogers    | O'Reilly Theatre                                                                                   | HT20      |
 | Lighting Assistant                   | Angels in America                                           |                  | O'Reilly Theatre                                                                                   | HT20      |
 | Executive Sound Designer             | Shadows of Troy                                             | Jamie Murphy     | Oxford Playhouse                                                                                   | HT20      |
 | Lighting Assistant                   | Don Giovanni                                                | Jonny Danciger   | St John's Auditorium                                                                               | HT20      |
-| Sound Designer                       | Merrily We Roll Along                                       | Sam Woof McColl  | Oxford Playhouse                                                                                   | HT20      |
-| A2                                   | Spring Awakening                                            | Issy Paul                  | Oxford Playhouse                                                                                   | MT19      |
-| Sound Designer and Stage Electrician | Life of Galileo                                             | Jamie Murphy     | O'Reilly Theatre                                                                                   | MT19      |
+| A2                                   | Spring Awakening                                            | Issy Paul                  | Oxford Playhouse                                                                                   | MT19      |                                               
 | Sound Assistant                      | Chicago                                                     |Emma Hawkins                  | O'Reilly Theatre                                                                                   | MT19      |
-| Sound Designer                       | ENRON                                                       |Emma Howlett                 | Oxford Playhouse                                                                                   | HT19      |
-| Sound Designer                       | The Threepenny Opera                                        | Georgie Botham   | Oxford Playhouse                                                                                   | MT18      |
-| Sound Designer and Stage Electrician | Doom's Day                                                  | Laura Day        | OUDS National Tour, Buxton Rotunda, Cambridge Junction, Edinburgh Fringe/C South, Katzpace Theatre | LV18 |
-| Sound Designer                       | A Very Old Man With Enormous Wings                           |Laura Day                  | Burton Taylor Studio                                                                               | MT17      |
+
 
 
