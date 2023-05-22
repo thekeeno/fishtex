@@ -5,7 +5,7 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
-I am currently looking forward to sound designing The Metamorphosis as the Pilch Studio and lighting designing The 25th Annual Putnam County Spelling Bee at Queen's College Gardens.
+I am currently looking forward to sound designing The Metamorphosis at the Pilch Studio and lighting designing a selection of Edinburgh Fringe shows.
 
 ### As Sound Designer
 
@@ -35,6 +35,7 @@ I am currently looking forward to sound designing The Metamorphosis as the Pilch
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- |
+| The 25th Annual Putnam County Spelling Bee | Harry Brook | Queen's College Gardens | May 2023 |
 | Macbeth | Andrew Raynes | Michael Pilch Studio| May 2023|
 ### Other Roles
 
