@@ -5,12 +5,13 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
-I am currently looking forward to sound designing The Metamorphosis at the Pilch Studio and lighting designing a selection of Edinburgh Fringe shows.
+I am currently looking forward to sound and lighting designing a selection of Edinburgh Fringe shows.
 
 ### As Sound Designer
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ---------------- | ---------------- | --------- |
+|The Metamorphosis| Lillian Berrell| Michael Pilch Studio|June 2023|
 | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
 | An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
 | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
@@ -35,6 +36,7 @@ I am currently looking forward to sound designing The Metamorphosis at the Pilch
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- |
+| Bark, Bark!|Gabriel Winsor|The North Wall Arts Centre| June 2023|
 | The 25th Annual Putnam County Spelling Bee | Harry Brook | Queen's College Gardens | May 2023 |
 | Macbeth | Andrew Raynes | Michael Pilch Studio| May 2023|
 ### Other Roles
