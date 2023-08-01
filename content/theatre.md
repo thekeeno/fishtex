@@ -5,12 +5,15 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
-I am currently looking forward to sound and lighting designing a selection of Edinburgh Fringe shows.
+I am currently looking forward to sound and lighting designing a selection of Edinburgh Fringe shows including Cruelty (C Aquila), Wishbone (Greenside Ivy), Brain Freeze (Greenside Ivy) and Echoes of Paris (C cubed).
+
 
 ### As Sound Designer
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ---------------- | ---------------- | --------- |
+| [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | Jack Studio Theatre| Aug 2023|
+| Plus One  | Nina Jurkovic    |  Upstairs at the Gatehouse    | July 2023      |
 |The Metamorphosis| Lillian Berrell| Michael Pilch Studio|June 2023|
 | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
 | An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
