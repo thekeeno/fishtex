@@ -30,7 +30,7 @@ A snapshot of recent praise for my work:
 
 ### Half Baked
 
->Though simple, I would really like to applaud the sound design ... I was convinced at first that someone or something was actually banging on the roof of the theatre – a rather impressive feat. 
+>I would really like to applaud the sound design ... I was convinced at first that someone or something was actually banging on the roof of the theatre – a rather impressive feat. 
 
 [Oxford Opening Night](https://oxfordopeningnight.wordpress.com/2021/05/19/half-baked-marks-the-return-of-in-person-theatre-with-a-bang/)
 
