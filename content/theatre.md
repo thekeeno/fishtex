@@ -11,6 +11,7 @@ I am currently looking forward to sound and lighting designing a selection of Ed
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ---------------- | ---------------- | --------- |
+| Plus One | Nina Jurkovic | Upstairs at the Gatehouse | June 2023|
 |The Metamorphosis| Lillian Berrell| Michael Pilch Studio|June 2023|
 | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
 | An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
