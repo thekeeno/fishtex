@@ -13,6 +13,7 @@ I am currently looking forward to sound and lighting designing a selection of Ed
 | ------------------ | ---------------- | ---------------- | --------- |
 | Plus One | Nina Jurkovic | Upstairs at the Gatehouse | June 2023|
 |The Metamorphosis| Lillian Berrell| Michael Pilch Studio|June 2023|
+|The House| Elspeth Rogers| Michael Pilch Studio|June 2023|
 | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
 | An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
 | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
