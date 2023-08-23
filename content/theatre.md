@@ -5,13 +5,14 @@ date = "2022-04-20"
 author = "Fish Lasers"
 +++
 
-I am currently looking forward to sound and lighting designing a selection of Edinburgh Fringe shows including Cruelty (C Aquila), Wishbone (Greenside Ivy), Brain Freeze (Greenside Ivy) and Echoes of Paris (C cubed).
-
 
 ### As Sound Designer
 
 | Show   | Director  |Venue    | Dates      |
-| ------------------ | ---------------- | ---------------- | --------- |
+| ------------ | ---------- | ---------- | ----- |
+| Brain Freeze | Debora Krut | Greenside Ivy | Aug 2023|
+| The Museum Trip | Kian Moghaddas | theSpace @ Niddry St | Aug 2023|
+| Echoes of Paris | Ollie Kurshid | C cubed | Aug 2023|
 | [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | Jack Studio Theatre| Aug 2023|
 | Plus One  | Nina Jurkovic    |  Upstairs at the Gatehouse    | July 2023      |
 |The Metamorphosis| Lillian Berrell| Michael Pilch Studio|June 2023|
@@ -20,6 +21,7 @@ I am currently looking forward to sound and lighting designing a selection of Ed
 | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|
 | [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | O'Reilly Theatre| Oct 2022|
 | UNMADE | Georgina Dettmer | New Theatre, Oxford|
+| Sex With Friends, and Other Tiny Catastrophes | Sam Woof McColl
 | tick, tick...BOOM!| Felix Westcott | Michael Pilch Studio| TT22|
                       | Carrie: The Musical                                         | Ellie Cooper     | Oxford Playhouse                                                                                   | TT22      |
 | [Plus One](https://www.00productions.co.uk/plus-one)                                                    | Nina Jurkovic    | Michael Pilch Studio                                                                               | HT22      |
@@ -39,13 +41,16 @@ I am currently looking forward to sound and lighting designing a selection of Ed
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- |
-| Bark, Bark!|Gabriel Winsor|The North Wall Arts Centre| June 2023|
+| Cruelty | Coco Cottam | C aquila | Aug 2023 |
+| Wishbone | Lydia Free | Greenside Ivy | Aug 2023 |
+| Bark, Bark!|Gabriel Winsor|The North Wall Arts Centre| Jun 2023|
 | The 25th Annual Putnam County Spelling Bee | Harry Brook | Queen's College Gardens | May 2023 |
 | Macbeth | Andrew Raynes | Michael Pilch Studio| May 2023|
 ### Other Roles
 
 | Role | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- | --------- |
+| Executive Sound Designer | The Great Gatsby | Mina Moniri/Peter Todd | Oxford Playhouse | Jun 2023|
 |Assistant Stage Manager | BARE | Mina Moniri| O'Reilly Theatre | Mar 2023|
 | Executive Sound Designer             | Murder in Argos                                             | Helena Aeberli | O'Reilly Theatre                                                                                   | MT21      |
 | Lighting Assistant                   | Angels in America                                           |                  | O'Reilly Theatre                                                                                   | HT20      |
