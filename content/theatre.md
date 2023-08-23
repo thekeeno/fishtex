@@ -16,6 +16,7 @@ author = "Fish Lasers"
 | [SKIN](https://mobile.twitter.com/ScarTheatreCo) | Peter Todd | Jack Studio Theatre| Aug 2023|
 | Plus One  | Nina Jurkovic    |  Upstairs at the Gatehouse    | July 2023      |
 |The Metamorphosis| Lillian Berrell| Michael Pilch Studio|June 2023|
+|The House| Elspeth Rogers| Michael Pilch Studio|June 2023|
 | The Tempest | Costi Levy | Oxford Playhouse | Feb 2023 |
 | An American in Paris | Ollie Kurshid | Oxford Playhouse | Feb 2023|
 | Jekyll and Hyde | Michael Speight | Pitt Rivers Museum| Nov 2022|

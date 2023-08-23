@@ -5,6 +5,15 @@ title = "Reviews"
 
 A snapshot of recent praise for my work:
 
+
+### The Metamorphosis
+
+> [The sound design] ... fundamentally elevated the tone and stakes in the play.
+
+> ... sheer immersive quality ... They opened up the world to the audience in a way that productions are rarely able to accomplish.
+
+[Isis Magazine](https://isismagazine.org.uk/2023/06/review-metamorphosis/)
+
 ### The Tempest
 
 >... sound effects were also dramatic and thrilling. This island certainly was full of strange noises, and it felt like a suitably alien environment for the European castaways.
