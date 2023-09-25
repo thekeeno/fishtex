@@ -2,6 +2,7 @@
 title: "Shirley, Jean and Aubrey reminisce about the sound of Littlemore"
 date: 2022-04-20T14:58:20+01:00
 draft: false
+image: "img/landjustice/littlemorehospital.jpg"
 tags:
 - OFS
 ---

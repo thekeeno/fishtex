@@ -7,6 +7,7 @@ In this exhibit he has brought his testimonials from the East Oxford Games Hall 
 
 Instagram: @logankunaka"
 draft: false
+image: "img/landjustice/logan.jpeg"
 tags:
 - OFS
 ---
