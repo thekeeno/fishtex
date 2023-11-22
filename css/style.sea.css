@@ -400,10 +400,7 @@ SIDEBAR + RIGHT COLUMN
   background: #fff;
   min-height: 100vh;
 }
-.content-column.lj-background {
-  background: #8a8247;
-  min-height: 100vh;
-}
+
 .grid {
   padding-top: 5px;
   overflow-y: hidden;
