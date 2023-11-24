@@ -1,15 +1,13 @@
 ---
 title: "Speed of Trust 7"
-date: 2022-04-20T14:58:20+01:00
-draft: false
+date: 2021-10-20T14:58:20+01:00
+draft: true
 tags:
 - Speed Of Trust
 ---
 
 
-A placeholder audio file
 
-{{<audio src="audio/landjustice/Shirley Jean and Aubrey reminisce about the sound of Littlemore plus sounds.mp3">}}
 
 
 

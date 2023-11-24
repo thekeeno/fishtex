@@ -1,6 +1,7 @@
 ---
-title: "Bio and Accompanying Text"
-date: 2022-04-20T14:58:20+01:00
+title: "Introduction"
+date: 2023-11-24T14:58:20+01:00
+image: "speedoftrust/img/venue.jpg"
 draft: false
 tags:
 - Speed Of Trust

@@ -1,15 +1,14 @@
 ---
 title: "Speed of Trust 2"
-date: 2022-04-20T14:58:20+01:00
+date: 2022-03-20T14:58:20+01:00
 draft: false
 tags:
 - Speed Of Trust
 ---
 
+{{<audio src="speedoftrust/audio/WhatsApp Audio 2023-11-24 at 14.45.24.mp3">}}
 
-A placeholder audio file
-
-{{<audio src="audio/landjustice/Shirley Jean and Aubrey reminisce about the sound of Littlemore plus sounds.mp3">}}
-
+This piece is a multimedia amorphous sculpture in a form resembling a cranial shape.
+It's comprised of uncolored glass in ribbon-like forms with embedded white ash and black embers, moving into red and orange beads strung on a wire frame, and blue and red ribbon-like glass frozen as if in molten state.
 
 
