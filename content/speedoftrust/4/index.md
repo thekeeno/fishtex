@@ -1,5 +1,5 @@
 ---
-title: "Speed of Trust 4"
+title: "Fire in Glass 4"
 date: 2022-01-20T14:58:20+01:00
 draft: false
 image: "speedoftrust/img/Untitled 9.jpg"

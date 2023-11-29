@@ -1,5 +1,5 @@
 ---
-title: "Fire in Glass"
+title: "Fire Pit"
 date: 2021-01-20T14:58:20+01:00
 draft: false
 image: "speedoftrust/img/Fire Pit.jpg"
