@@ -2,6 +2,7 @@
 title: "Fire in Glass 3"
 date: 2022-02-20T14:58:20+01:00
 draft: false
+image: "speedoftrust/img/speedoftrust 3_j.png"
 tags:
 - Speed Of Trust
 ---
