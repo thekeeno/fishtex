@@ -1,7 +1,7 @@
 ---
-title: "Macbeth | Michael Pilch Studio"
+title: "Macbeth | Lighting Design"
 date: 2023-05-06T16:01:26+01:00
-summary: " "
+summary: "Michael Pilch Studio"
 image: "img/portfolio/macbeth.jpg"
 draft: false
 tags:
