@@ -42,6 +42,8 @@ author = "Fish Lasers"
 
 | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- |
+| Medea | Halah Irvine and Neel Gokal | Oxford Playhouse | Nov 2023 |
+| Breaking Bod | Molly Dineley | Michael Pilch Studio | Oct 2023 |
 | Cruelty | Coco Cottam | C aquila | Aug 2023 |
 | Wishbone | Lydia Free | Greenside Ivy | Aug 2023 |
 | Bark, Bark!|Gabriel Winsor|The North Wall Arts Centre| Jun 2023|
