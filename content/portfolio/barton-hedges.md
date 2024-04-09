@@ -22,12 +22,7 @@ Some wonderful birdsong near the middle.
 ## Shotover Park
 Location: 51.7524389,-1.1847554
 
-This has some voices from the park in the background, occasional sirens. The birdsong is sometimes very sudden and intense – I like this recording a lot.
-I wonder if someone can identify the call of the bird 2 minutes in.
-
-
-
-{{<audio src="audio/barton/Shotover Park, Day 1, 51.7524389,-1.1847554, H2n, Rough Cut - Some voices and sirens in distance, occasional intense birds, Master.mp3" >}}
+TBD
 
 # Day 2 - 9th April 2023
 
@@ -53,6 +48,6 @@ In the background there is some traffic, occasional ice cream van music, people 
 
 ### Hydrophone Recordings
 
-{{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Flowing, Position 1, Long Take_Hydrophone.mp3">}}
+{{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Flowing, Position 1, Long Take_Hydrophone_short.mp3">}}
 {{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Running Deeper, Position 2, Thicker_Hydrophone.mp3">}}
 {{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Tinkling at Surface, Position 2, Short_Hydrophone.mp3">}}
