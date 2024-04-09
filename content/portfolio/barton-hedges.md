@@ -30,7 +30,7 @@ TBD
 Location: 51.771258, -1.196587
 
 A hedge similar to the one from Day 1, but closer to the road.
-{{<audio src="audio/barton/Barton Hedge, Afternoon, 51.771258, -1.196587, R_Rough Trim_Master.mp3">}}
+TBD
 
 ## Bayswater Brook
 
