@@ -1,4 +1,4 @@
-baseurl = "https://thekeeno.github.io/fishtex/"
+baseurl = "https://fishlasers.co.uk/"
 title = "FishLasers"
 theme =  ["hugo-dynamic-tabs", "hugo-creative-portfolio-theme"]
 languageCode = "en-us"
