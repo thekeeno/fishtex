@@ -15,10 +15,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "Describe your website"
-  copyright = "&copy;2023 FishLasers Limited"
+  copyright = "&copy;2024 FishLasers Limited"
   sidebarAbout = [
-    "Welcome to the personal site of FishLasers, a.k.a. Alva C. J. Orr.",
-    "I am an Engineering DPhil student and sound designer born in London and based in Oxford."
+    "Welcome to the portfolio of FishLasers, a.k.a. Alva C. J. Orr.",
+    "I am a sound designer, lighting designer and creative A/V technician born in London and based in Oxford, and am currently writing up my PhD thesis on Liquid Crystal devices. My work is multi-disciplinary and queer at heart, bringing together my scientific knowledge with my love for art and theatre in all its forms."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
