@@ -1,7 +1,7 @@
 ---
 title: "Barton Hedges"
 date: 2024-04-08T16:01:26+01:00
-summary: "For Jamie Walker"
+summary: "Field recording for community welfare"
 image: "img/portfolio/snail-hydrophone.jpg"
 draft: false
 tags:
