@@ -2,7 +2,7 @@
 title: "Medea | Lighting Design"
 date: 2024-01-01T16:01:26+01:00
 summary: "Oxford Playhouse"
-image: "img/portfolio/medea/DSCF4276.JPG"
+image: "img/portfolio/medea/medea-thumb.JPG"
 draft: false
 tags:
 - Theatre
