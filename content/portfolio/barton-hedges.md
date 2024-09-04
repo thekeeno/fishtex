@@ -9,6 +9,8 @@ tags:
 - Field Recording
 ---
 
+This collection of recordings were made near Barton, Oxfordshire, in an area that will soon be fenced away for housing, permanently altering the sonic landscape of the area.
+
 
 # Day 1 - 5th March 2023
 ## Barton Hedge
@@ -51,3 +53,5 @@ In the background there is some traffic, occasional ice cream van music, people 
 {{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Flowing, Position 1, Long Take_Hydrophone_short.mp3">}}
 {{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Running Deeper, Position 2, Thicker_Hydrophone.mp3">}}
 {{<audio src="audio/barton/Bayswater Brook, 09-04-2023_Water Tinkling at Surface, Position 2, Short_Hydrophone.mp3">}}
+
+All the recordings on this webpage are released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1).
