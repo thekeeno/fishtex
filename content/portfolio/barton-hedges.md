@@ -1,7 +1,7 @@
 ---
 title: "Barton Hedges"
 date: 2024-04-08T16:01:26+01:00
-summary: "Field recording for community welfare"
+summary: "Free nature soundscape collection, recorded around Oxford."
 image: "img/portfolio/snail-hydrophone.jpg"
 draft: false
 tags:
