@@ -18,7 +18,9 @@ googleAnalytics = ""
   copyright = "&copy;2024 FishLasers Limited"
   sidebarAbout = [
     "Welcome to the portfolio of FishLasers, a.k.a. Alva C. J. Orr.",
-    "I am a sound designer, lighting designer and creative A/V technician born in London and based in Oxford, and am currently writing up my PhD thesis on Liquid Crystal devices. My work is multi-disciplinary and queer at heart, bringing together my scientific knowledge with my love for art and theatre in all its forms."
+    "I am a sound designer, lighting designer and creative A/V technician born in London and based in Oxford, and am currently writing up my PhD thesis on Liquid Crystal devices. My work is multi-disciplinary and queer at heart, bringing together my scientific knowledge with my love for art and theatre in all its forms.",
+    "I am available for freelance and consultancy work including theatrical design, art gallery installations, operating shows and equipment repair.",
+    "I also stock a range of lighting, audio and visual equipment for hire, with special pricing available for student-led and charitable productions."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -54,22 +56,22 @@ googleAnalytics = ""
   url = "about/"
   
   [[params.navlinks]]
-  name = "Reviews"
+  name = "Reviews and Testimonials"
   url = "reviews/"
 
 
   [[params.navlinks]]
-  name = "See my Credits"
+  name = "Theatrical Credits"
   url = "theatre/"
 
   [[params.navlinks]]
-  name = "Hire my Equipment"
+  name = "Equipment Hire"
   url = "equipment/"
 
 
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact Me"
   url = "contact/"
 
   [params.social]
