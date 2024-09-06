@@ -1,0 +1,2 @@
+ffmpeg -i "goop1_v3.mp4" -vf "fps=30,scale=360:-1:flags=lanczos" -vcodec libwebp -lossless 0 -compression_level 6 -q:v 25 -loop 0 -preset picture -an -vsync 0 goop1_v5.webp
+ffmpeg -i "goop1.mov" -vf "fps=30,scale=360:-1:flags=lanczos"  -ss 00:10.3 -to 00:14.75 -vcodec libwebp -lossless 0 -compression_level 6 -q:v 25 -loop 0 -preset picture -an -vsync 0 goop1_v6.webp
