@@ -16,10 +16,12 @@ Following my work for Land Justice Oxfordshire, I was comissioned in July 2024 b
 
 The exhibit showcases communities all across Oxfordshire, combining photos from all across the county to build a collaborative tapestry of peoples' experience. [It's not too late submit your photos via the webform here!](https://697dpni7ko3.typeform.com/to/LzJxRj3I)
 
-To provide projections at the scale needed, I deployed my flagship NEC projector in a portrait configuration to match the shape of Oxfordshire, and display the full exhibit in clearly in a space with challenging ambient light levels. The installation is fully turn-key, with automated remote management of submitted images.
-
 {{< gallery dir="/img/portfolio/our-oxfordshire"  caption-position="none" width="500px"/>}}
  {{< load-photoswipe >}}
+
+To provide projections at the scale needed, I deployed my flagship NEC projector in a portrait configuration to match the shape of Oxfordshire, and display the full exhibit in clearly in a space with challenging ambient light levels. The installation is fully turn-key, with automated remote management of submitted images.
+
+
 
 
 
