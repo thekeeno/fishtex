@@ -58,8 +58,9 @@ author = "Fish Lasers"
 
 | Role | Show   | Director  |Venue    | Dates      |
 | ------------------ | ------------------ | ---------------- | ---------------- | --------- |
+| Sound Designer | Straddle | Mina Moniri | Hen and Chickens Theatre | Aug 2024 |
 | Technical Director | Bark, Bark! | Gabriel Winsor | Summerhall - Anatomy | Aug 2024 |
-| Executive Sound Designer | The Great Gatsby | Mina Moniri/Peter Todd | Oxford Playhouse | Jun 2023|
+| Executive Sound Designer | The Great Gatsby | Mina Moniri and Peter Todd | Oxford Playhouse | Jun 2023|
 |Assistant Stage Manager | BARE | Mina Moniri| O'Reilly Theatre | Mar 2023|
 | Executive Sound Designer             | Murder in Argos                                             | Helena Aeberli | O'Reilly Theatre                                                                                   | MT21      |
 | Lighting Assistant                   | Angels in America                                           |                  | O'Reilly Theatre                                                                                   | HT20      |
